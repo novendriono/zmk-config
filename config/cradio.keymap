@@ -31,7 +31,7 @@
     };
 
     combo {
-      compatible = "zmk, combos";
+      compatible = "zmk,combos";
       combo_tab {
         timeout-ms = <50>;
         key-positions = <0 1>;
