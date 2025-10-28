@@ -52,7 +52,7 @@
         key-positions = <18 19>;
         bindings = <&kp SQT>;
       };
-    }
+    };
 
     keymap {
         compatible = "zmk,keymap";
